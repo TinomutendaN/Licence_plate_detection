@@ -1,3 +1,11 @@
+sample.mp4
+yolov8n.pt
+sort/
+out.mp4
+test.csv
+test_interpolated.csv
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
